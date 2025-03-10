@@ -16,7 +16,7 @@ This repository contains various analyses and visualizations of Playstore data. 
 This scatter plot shows the relationship between the number of installs (x-axis) and revenue in USD (y-axis) for paid apps across multiple categories. The data points are color-coded by app category, with 20 different categories represented including Business, Communication, Dating, Education, and others.
 The blue trendline indicates a strong positive correlation between the number of installs and revenue - as installs increase, revenue generally increases as well. The plot shows data points ranging from 0-16 installs and $0-18 in revenue.
 <div style="display: flex; justify-content: flex-end;">
-    <img src="../Images/task_01.png" alt="Scatter Plot Image" style="width: 150px; margin-left: 20px;">
+    <img src="https://github.com/user-attachments/assets/7dd3ca7c-028a-46d8-9c5f-a97760a92093" alt="Scatter Plot Image" style="width: 150px; margin-left: 20px;">
 </div>
 
 ### Some notable observations:
